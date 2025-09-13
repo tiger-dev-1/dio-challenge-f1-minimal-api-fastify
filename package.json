@@ -1,6 +1,6 @@
 {
   "name": "dio-challenge-f1-minimal-api-fastify",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
